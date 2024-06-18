@@ -35,6 +35,5 @@ composer require laravel/sanctum
 
 ## TESTES
 
-### PUT
-
+Os testes estão nas imagens abaixo e no repositório em Json
 
