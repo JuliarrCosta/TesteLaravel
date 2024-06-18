@@ -1,6 +1,6 @@
 Criamos uma API que mostra todos os dados dos produtos da nossa indústria de produtos eletrônicos.
 
-##Desenvolvimento:
+## Desenvolvimento:
 
 1- Após garantirmos que o PHP e o Composer estavam instalados, criamos um repositório Laravel com o comando:
 ```bash
@@ -32,3 +32,9 @@ composer require laravel/sanctum
 9- Criamos as rotas definidas no ProductController.
 
 10- Tivemos que criar a tabela personal_access_tokens manualmente no DB
+
+## TESTES
+
+### PUT
+
+
